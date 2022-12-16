@@ -47,7 +47,6 @@ const Wrapper = styled.div`
         line-height: 2.2rem;
       }
       .line {
-        /* background-color: fuchsia; */
         margin-bottom: 8px;
         height: 56px;
         position: relative;
@@ -80,7 +79,6 @@ const Wrapper = styled.div`
         @media (min-width: 600px) {
           font-size: 1.1rem;
         }
-        //svg 14min mark
       }
     }
   }
