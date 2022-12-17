@@ -54,7 +54,8 @@ const Wrapper = styled.div`
         z-index: 2;
         transition: all 0.3s;
 
-        transform-origin: 0 50%;
+        //ROTATION ORIGIN
+        transform-origin: 0% 50%;
       }
       &:before {
         text-shadow: none;
